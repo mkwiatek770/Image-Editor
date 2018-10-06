@@ -1,5 +1,5 @@
 from config import Config
-from editor import ImageEditor
+from editor.editor import ImageEditor
 
 config = Config()
 editor = ImageEditor()
